@@ -8,7 +8,7 @@ const Navigation = () => {
 	return (
 		<Navbar collapseOnSelect expand='lg' bg='dark' variant='dark'>
 			<Container>
-				<Link href='/test'>
+				<Link href='/'>
 					<Navbar.Brand className='pointer'>React-Bootstrap</Navbar.Brand>
 				</Link>
 				<Navbar.Toggle aria-controls='responsive-navbar-nav' />
